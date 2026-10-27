@@ -1,0 +1,12 @@
+.venv/
+.tmp/
+__pycache__/
+build/
+dist/
+*.spec
+output/
+preview.png
+.env
+.env.*
+!.env.example
+*.log
